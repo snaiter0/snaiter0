@@ -2,20 +2,16 @@
 
 <div>
   <a href="https://github.com/snaiter0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snaiter0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img align="right" alt="Angel of Darkness" height="250" width="360" src="https://cdn.discordapp.com/attachments/404090226139463689/887790631974498374/Tema.png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snaiter0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
   </a>
   <br>
-  <b>
-    Desenvolvedor Java Junior FullStack <BR>
-     </b>
-      <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg"><BR>
-    <b> Técnico em Mecatrônica </b><BR>
-      <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg"> <img align="right" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
-     <br> 
-    </br>
   <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
+  <img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg"><img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
+</div>  
+
+      
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
