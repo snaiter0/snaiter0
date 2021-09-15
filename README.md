@@ -6,7 +6,7 @@
     <img align="right" height="250em" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
   </a>
   <br>
-  <img height="160" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=dracula"/><br>
   <img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg"><img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
 </div>  
 
