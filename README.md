@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/snaiter0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=snaiter0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="right" height="250em" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
+    <img align="right" height="230em" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
   </a>
   <br>
   <img height="160" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=dracula"/><br>
