@@ -1,10 +1,10 @@
-### Oiii eu sou o Douglas! E você não é... (meme)
+### Oiii eu sou o Douglas! Você não é... (meme)
 
 <div>
   <a href="https://github.com/snaiter0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=snaiter0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="right" height="230em" alt="Doug-sett" src="https://media0.giphy.com/media/O1DrvejiJbwZLNBpl6/giphy.gif">
-  </a>
+  
   <br>
   <img height="160" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=dracula"/><br>
   <img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg"><img align="right" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
@@ -34,5 +34,5 @@
 
  
   ![Snake animation](https://github.com/snaiter0/snaiter0/blob/output/github-contribution-grid-snake.svg)
- 
+ </a>
 </div>
