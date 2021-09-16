@@ -1,4 +1,4 @@
-### Oiii Meu nome é Douglas! E o seu não... (meme)
+### Oiii eu sou o Douglas! E você não é... (meme)
 
 <div>
   <a href="https://github.com/snaiter0">
