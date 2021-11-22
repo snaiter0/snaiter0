@@ -1,4 +1,4 @@
-### Oiii eu sou o Douglas!
+### Olá, eu sou o Douglas!
 
 <div>
   <a href="https://github.com/snaiter0">
