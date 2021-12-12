@@ -19,7 +19,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=radical"/> 
  </div>
 <div align="center">  
-  <h2>  <img height="45em" align="left" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> Instituições de ensino <img height="45em" align="right" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> </h2>
+  <h2>  <img height="45em" align="left" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> educational institutions <img height="45em" align="right" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> </h2>
   <img align="center" alt="Senai" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg">
   <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
   <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/919641102326325318/download_1.png">
@@ -28,7 +28,8 @@
 
 <br>
 
-<h2 align="center"> <img align="left" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em"> Tecnologias desenvolvidas <img align="right" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em">  </h2> 
+<h2 align="center"> <img align="left" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em"> Technologies developed
+ <img align="right" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em">  </h2> 
 <table align="center" style=" width: 60%" >
   <br>
   <tr>
@@ -86,8 +87,9 @@
   <br>
   
 <div align="center">
-  <a href = "mailto:douglas.szlps@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-lpsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:douglas.szlps@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a  target="_blank" href="https://www.linkedin.com/in/douglas-lpsouza/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://snaiter0.github.io" target="_blank"><img  alt="my portfólio" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" width="50em"></a>
   </div>
  
   ![Snake animation](https://github.com/snaiter0/snaiter0/blob/output/github-contribution-grid-snake.svg) 
