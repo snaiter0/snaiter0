@@ -19,7 +19,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaiter0&layout=compact&langs_count=7&theme=radical"/> 
  </div>
 <div align="center">  
-  <h2>  <img height="45em" align="left" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> educational institutions <img height="45em" align="right" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> </h2>
+  <h2>  <img height="45em" align="left" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> Educational institutions <img height="45em" align="right" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> </h2>
   <img align="center" alt="Senai" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg">
   <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
   <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/919641102326325318/download_1.png">
