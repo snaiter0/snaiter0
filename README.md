@@ -1,9 +1,10 @@
 ### Hello, i'm Douglas!
 <br>
 
+- 🖥 backend Java developer
 - 🔧 I am a Mechatronics technician
 - 💾 Technician in hardware
-- 🖥 Full-stack Java developer
+
 
 - 💖 I love technologie and games 🎮
 
