@@ -19,69 +19,54 @@
  </div>
 <div align="center">  
   <h2>  <img height="45em" align="left" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> Educational institutions <img height="45em" align="right" src="https://cdn-icons-png.flaticon.com/128/948/948363.png"> </h2>
-  <img align="center" alt="Senai" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792429456031754/download_2.jpg">
-  <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/887792865667854386/download_3.jpg">
-  <img align="center" alt="Angel of Darkness" height="100" width="100" src="https://cdn.discordapp.com/attachments/887792356223508541/919641102326325318/download_1.png">
+  <img align="center" alt="Senai" height="100" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7xta4yVChbL0JXVyLfh1GMZK0eF_LO88sg&s">
+  <img align="center" alt="AMPLI" height="100" width="300" src="https://anhanguera.s3.amazonaws.com/wp-content/uploads/2021/08/anhanguera-ampli.png">
+  <img align="center" alt="FIAP" height="100" width="300" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg">
+  
+ 
   <br>
 </div>
 
 <br>
 
-<h2 align="center"> <img align="left" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em"> Technologies developed
- <img align="right" src="https://cdn-icons.flaticon.com/png/512/2314/premium/2314509.png?token=exp=1639335897~hmac=7c8d07de1946b040b1eeb3f6d8e441d1" height="45em">  </h2> 
+<h2 align="center"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" height="45em"> Technologies developed
+ <img align="right" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" height="45em">  </h2> 
 <table align="center" style=" width: 60%" >
   <br>
+ 
   <tr>
    <td align="center">
-   <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white  ">
+   <img  src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+   <img  src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
    <td align="center">
-   <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img  src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
    <td align="center">
-   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-     
+   <img  src="https://img.shields.io/badge/Hibernate-59666C?style=badge&logo=Hibernate&logoColor=white  ">
+  </tr>
+
 
   <tr>
    <td align="center">
-   <img  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   <img  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftSqlServer&logoColor=white">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   <img  src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+   <img  src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=White">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Visual_Studio-FFFF00?style=for-the-badge&logo=visual%20studio&logoColor=black">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <td align="center">
-   <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-     <td align="center">
-       <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-     
+   <img  src="https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white">  
  </tr>
+ 
  <tr>
    <td align="center">
-   <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   <img  src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whitee">
+   <img  src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
    <td align="center">
-   <img  src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+   <img  src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=White">
    <td align="center">
-   <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-   <td align="center">
-   <img  src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  </tr>
+   <img  src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+   </tr>
 </table>
   <br>
   
